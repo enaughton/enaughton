@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on getting a full time developer job
-- 🌱 I’m currently learning all the time 
+- 🔭 I’m currently looking for full time developer work
+- 🌱 I’m currently learning all the time
 - 🤔 I’m looking for help with getting a developer job
 - 💬 Ask me about #CoderDads 
 - 😄 Pronouns: he/him
