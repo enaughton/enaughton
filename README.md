@@ -1,11 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
 
 
-- 🔭 I’m currently looking for full time developer work
+- 🧱 Co-Parent of #CoderDads 
 - 🌱 I’m currently learning all the time
-- 🤔 I’m looking for help with getting a developer job
-- 💬 Ask me about #CoderDads 
+- 🤔 I’m looking to help others get into tech
+- 💬 Questions? hi@emmettnaughton.com
 - 😄 Pronouns: he/him
 
 
