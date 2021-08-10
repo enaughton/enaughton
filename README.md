@@ -1,7 +1,4 @@
-# How are you doing? 
-
-## What are you working on?
-
+# Hi There 👋
 
 
 
