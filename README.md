@@ -1,8 +1,5 @@
 # Hi there 👋
 
-## How are you doing? 
-
-- I'm doing just fine
 
 
 
