@@ -1,10 +1,5 @@
 # Hi There 👋
 
-## What are you working on? 
-
-[CSS-Tricks](css-tricks.com)
-
-
 - 🧱 Co-Parent of #CoderDads 
 - 🌱 I’m currently learning all the time
 - 🤔 I’m looking to help others get into tech
