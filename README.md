@@ -1,6 +1,8 @@
 # Hi There 👋
 
+## What are you working on? 
 
+[CSS-Tricks](css-tricks.com)
 
 
 - 🧱 Co-Parent of #CoderDads 
