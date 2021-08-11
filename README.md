@@ -1,6 +1,8 @@
 # Hi There 👋
 
 - 🧱 Co-Parent of #CoderDads 
+- 🍕 is my favorite food
+- 🤖 BEEP BOOP
 - 🌱 I’m currently learning all the time
 - 🤔 I’m looking to help others get into tech
 - 💬 Questions? hi@emmettnaughton.com
