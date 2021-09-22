@@ -3,7 +3,7 @@
 - 🧱 Co-Parent of #CoderDads 
 - 🌱 I’m currently learning all the time
 - 🤔 I’m looking to help others get into tech
-- 💬 Questions? hi@emmettnaughton.com
+- 💬 Questions? Find me on Twitter. 
 - 😄 Pronouns: he/him
 
 
