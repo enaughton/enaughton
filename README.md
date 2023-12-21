@@ -3,7 +3,6 @@
 - 🧱 Co-Parent of #CoderDads 
 - 🌱 Always learning
 - 🤔 I’m looking to help others get into tech
-- 🗺 Looking for my next adventure 
 - 💬 Questions? Find me on Twitter. 
 - 😄 Pronouns: he/him
 
